@@ -19,3 +19,5 @@
 ![Block scheme - Airsoft Paintball Capture points - Arduino + nRF24L01](https://i.imgur.com/hglnwgX.jpg)
 # Wiring:
 ![Wiring - Airsoft Paintball Capture points - Arduino + nRF24L01](https://i.imgur.com/noWoy6S.png)
+# Example of usage:
+![Example - nRF24L01 - Capture Points with Arduino Mega](http://imag.sector.sk/files/users/blog/326500/13107/326500-1181972-960.jpg)

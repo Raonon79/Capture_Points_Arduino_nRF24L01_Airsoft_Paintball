@@ -1,5 +1,6 @@
 # Capture Points - Arduino + nRF24L01 - Airsoft / Paintball
 **Project is paid, if you want to buy, contact at: martinius96@gmail.com**
+**Range Tester is free**
 # Description of functionality and use:
 * The system is designed for Airsoft / Paintball / Nerf Wars for Capture points game mode.
 * System is using 2 points, each consist of: Arduino Nano, 2 diodes, 2 buzzers, 2 WiFi modules nRF24l01( + PA + LNA). 
